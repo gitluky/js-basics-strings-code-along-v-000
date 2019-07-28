@@ -2,4 +2,4 @@
 const currentUser = 'Hopper';
 const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`
 const excitedWelcomeMessage = welcomeMessage.toUpperCase();
-const shortGreeting = `Welcome, currentUser.indexOf(1)!`
+const shortGreeting = `Welcome, currentUser.indexOf(0)!`
